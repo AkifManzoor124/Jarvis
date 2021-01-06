@@ -1,0 +1,92 @@
+Grammar,Command,Response,Profile
+Open Paint,C:\Windows\System32\mspaint.exe,Starting Â Paint,main
+Open Notepad,C:\Windows\System32\notepad.exe,Here it is,main
+Open Task Manager,C:\Windows\System32\Taskmgr.exe,Opening Task manager,main
+Open Wordpad,C:\Program Files\Windows NT\Accessories\wordpad.exe,Sure,main
+Open C Drive,C:\,yes sir,main
+Open Program Files,C:\Program Files\,here it is,main
+Open Windows directory,C:\Windows\,sure sir,main
+brightness 0%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness0.exe,brightness set to 0%,main
+brightness 10%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness10.exe,brightness set to 10%,main
+brightness 20%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness20.exe,brightness set to 20%,main
+brightness 30%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness30.exe,brightness set to 30%,main
+brightness 40%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness40.exe,brightness set to 40%,main
+brightness 50%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness50.exe,brightness set to 50%,main
+brightness 60%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness60.exe,brightness set to 60%,main
+brightness 70%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness70.exe,brightness set to 70%,main
+brightness 80%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness80.exe,brightness set to 80%,main
+brightness 90%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness90.exe,brightness set to 90%,main
+brightness 100%,C:\Users\Akif\Dropbox\Jarvis\Brightness\brightness100.exe,brightness set to 100%,main
+move window,C:\Users\Akif\Dropbox\Jarvis\move commands\Move.vbs,which direction?,main
+to the left,C:\Users\Akif\Dropbox\Jarvis\move commands\left.vbs,moving,main
+to the right,C:\Users\Akif\Dropbox\Jarvis\move commands\right.vbs,moving,main
+upwareds,C:\Users\Akif\Dropbox\Jarvis\move commands\up.vbs,moving,main
+downwards,C:\Users\Akif\Dropbox\Jarvis\move commands\down.vbs,moving,main
+click yes,C:\Users\Akif\Dropbox\Jarvis\system\dlg\click yes.exe,,main
+click no,C:\Users\Akif\Dropbox\Jarvis\system\dlg\click no.exe,,main
+click OK,C:\Users\Akif\Dropbox\Jarvis\system\dlg\click ok.exe,,main
+click cancel,C:\Users\Akif\Dropbox\Jarvis\system\dlg\click cancel.exe,,main
+log me off,C:\Users\Akif\Dropbox\Jarvis\system\power\logoff.exe,logging off,main
+turn off the monitor,C:\Users\Akif\Dropbox\Jarvis\system\power\monitoroff.exe,monitor power is down,main
+go to standby mode,C:\Users\Akif\Dropbox\Jarvis\system\power\standby.exe,standing by,main
+mute volume,C:\Users\Akif\Dropbox\Jarvis\Volume\mute.exe,ok,main
+unmute volume,C:\Users\Akif\Dropbox\Jarvis\Volume\unmute.exe,ok,main
+volume 10%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol10.exe,volume set to 10%,main
+volume 20%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol20.exe,volume set to 20%,main
+volume 25%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol25.exe,volume set to 25%,main
+volume 30%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol30.exe,volume set to 30%,main
+volume 40%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol40.exe,volume set to 40%,main
+volume 50%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol50.exe,volume set to 50%,main
+volume 60%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol60.exe,volume set to 60%,main
+volume 70%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol70.exe,volume set to 70%,main
+volume 75%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol75.exe,volume set to75%,main
+volume 80%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol80.exe,volume set to 80%,main
+volume 90%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol90.exe,volume set to 90%,main
+volume 100%,C:\Users\Akif\Dropbox\Jarvis\Volume\vol100.exe,volume set to 100%,main
+take 10 screenshots,C:\Users\Akif\Dropbox\Jarvis\system\Others\10 screenshots.exe,taking screenshots and saving them in your pictures folder sir.,main
+cancel,C:\Users\Akif\Dropbox\Jarvis\system\Others\cancel.exe,ok,main
+center all windows,C:\Users\Akif\Dropbox\Jarvis\system\Others\center windows.exe,ok,main
+clear clipboard,C:\Users\Akif\Dropbox\Jarvis\system\Others\clear clipboard.exe,cleared,main
+save imsge from clipboard,C:\Users\Akif\Dropbox\Jarvis\system\Others\clipboard imagesave.exe,image saved at your picture folder as temp.png ,main
+close cd tray,C:\Users\Akif\Dropbox\Jarvis\system\Others\closecdrom.exe,ok,main
+close dvd tray,C:\Users\Akif\Dropbox\Jarvis\system\Others\closecdrom.exe,ok,main
+disable screensaver,C:\Users\Akif\Dropbox\Jarvis\system\Others\disable screensaver.exe,screensaver disabled,main
+empty recycle bin,C:\Users\Akif\Dropbox\Jarvis\system\Others\empty_bin.exe,cleared,main
+enable screensaver,C:\Users\Akif\Dropbox\Jarvis\system\Others\enable screensaver.exe,screensaver enabled,main
+hide takbar clock,C:\Users\Akif\Dropbox\Jarvis\system\Others\hide clock.exe,clock hidden,main
+hide desktop,C:\Users\Akif\Dropbox\Jarvis\system\Others\hide desktop.exe,desktop hidden,main
+hide title of my computer,C:\Users\Akif\Dropbox\Jarvis\system\Others\hide my computer title.exe,ok,main
+hide system tray,C:\Users\Akif\Dropbox\Jarvis\system\Others\hide system tray.exe,system tray id hidden,main
+mouse left click,C:\Users\Akif\Dropbox\Jarvis\system\Others\mouseLC.exe,ok,main
+mouse right click,C:\Users\Akif\Dropbox\Jarvis\system\Others\mouseRC.exe,ok,main
+open screensaver,C:\Users\Akif\Dropbox\Jarvis\system\Others\open screensaver.exe,ok,main
+open screenshot,C:\Users\Akif\Dropbox\Jarvis\system\Others\Open_Screenshot.exe,ok,main
+show me the screenshot,C:\Users\Akif\Dropbox\Jarvis\system\Others\Open_Screenshot.exe,ok,main
+open screenshot folder,C:\Users\Akif\Dropbox\Jarvis\system\Others\Open_Screenshot_folder.exe,ok,main
+open cd tray,C:\Users\Akif\Dropbox\Jarvis\system\Others\opencdrom.exe,ok,main
+open dvd tray,C:\Users\Akif\Dropbox\Jarvis\system\Others\opencdrom.exe,ok,main
+restart explorer,C:\Users\Akif\Dropbox\Jarvis\system\Others\reset_explorer.exe,ok,main
+restart windows explorer,C:\Users\Akif\Dropbox\Jarvis\system\Others\reset_explorer.exe,ok,main
+restart file browser,C:\Users\Akif\Dropbox\Jarvis\system\Others\reset_explorer.exe,ok,main
+take a screenshot,C:\Users\Akif\Dropbox\Jarvis\system\Others\screenshot.exe,screenshot taken and saved in your pictures folder,main
+show taskbar clock,C:\Users\Akif\Dropbox\Jarvis\system\Others\show clock.exe,ok,main
+show desktop,C:\Users\Akif\Dropbox\Jarvis\system\Others\show desktop.exe,ok,main
+show title of my computer,C:\Users\Akif\Dropbox\Jarvis\system\Others\show my computer title.exe,ok,main
+show system tray,C:\Users\Akif\Dropbox\Jarvis\system\Others\show systemtray.exe,ok,main
+read the text in clipboard,C:\Users\Akif\Dropbox\Jarvis\system\Others\speak clipboard.exe,,main
+what is in the clipboard,C:\Users\Akif\Dropbox\Jarvis\system\Others\speak clipboard.exe,,main
+what is my schedule for today,C:\Users\Akif\Dropbox\Jarvis\system\Others\todolist.exe,,main
+edit my schedule,C:\temp\ToDoList.txt,editing sir. please save it when you are done.,main
+edit my to do list,C:\temp\ToDoList.txt,editing sir. please save it when you are done.,main
+change resolution to 800 by 600,C:\Users\Akif\Dropbox\Jarvis\resolution\res_800x600_32bit.exe,resolution set to 800 by 600,main
+change resolution to 1024 by 720,C:\Users\Akif\Dropbox\Jarvis\resolution\res_1024x720_32bit.exe,resolution set to 1024 by 720,main
+change resolution to 1024 by 768,C:\Users\Akif\Dropbox\Jarvis\resolution\res_1024x768_32bit.exe,resolution set to 1024 by 768,main
+change resolution to 1280 by 720,C:\Users\Akif\Dropbox\Jarvis\resolution\res_1280x720_32bit.exe,resolution set to 1280 by 720,main
+change resolution to 1280 by 768,C:\Users\Akif\Dropbox\Jarvis\resolution\res_1280x768_32bit.exe,resolution set to 1280 by 768,main
+change resolution to 1280 by 800,C:\Users\Akif\Dropbox\Jarvis\resolution\res_1280x800_32bit.exe,resolution set to 1280 by 800,main
+change resolution to 1360 by 768,C:\Users\Akif\Dropbox\Jarvis\resolution\res_1360x768_32bit.exe,resolution set to 1360 by 768,main
+change resolution to 1600 by 900,C:\Users\Akif\Dropbox\Jarvis\resolution\res_1600x900_32bit.exe,resolution set to 1600 by 900,main
+change resolution to 1920 by 1080,C:\Users\Akif\Dropbox\Jarvis\resolution\res_1920x1080_32bit.exe,resolution set to 1920 by 1080,main
+change resolution to 2560 by 1080,C:\Users\Akif\Dropbox\Jarvis\resolution\res_2560x1080_32bit.exe,resolution set to 2560 by 1080,main
+stop moving,C:\Program Files\DK's Soft\JARVIS System Commands\move commands\stop.exe,ok,main
+give me a full system status report,C:\Users\Akif\Dropbox\Jarvis\sysreport-vbs-0519\sysreport.vbs,,main
